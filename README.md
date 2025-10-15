@@ -3,5 +3,5 @@
 
 This my skills:
 
-### Languages I am learning:
-[![My Skills](https://skillicons.dev/icons?i=Java)
+### **Languages I am learning:**
+[![My Skills](https://skillicons.dev/icons?i=Java)]
