@@ -4,4 +4,4 @@
 This my skills:
 
 ### **Languages I am learning:**
-[![My Skills](https://skillicons.dev/icons?i=java)]
+![My Skills](https://skillicons.dev/icons?i=java)
