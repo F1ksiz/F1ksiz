@@ -1,5 +1,5 @@
 ## Hi there 👋, my name is @f1ksiz
-### I am a beginner Java developer
+### I am a beginner Java and Go developer
 
 This my skills:
 
